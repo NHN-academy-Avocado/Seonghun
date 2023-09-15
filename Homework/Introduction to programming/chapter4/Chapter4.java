@@ -54,7 +54,7 @@ public class Chapter4 {
     1. b+10L  =>  long
     2. (b+i)*l  =>  long
     3. (b+i)*l+f  =>  float
-    4. s/f + Math.sin(f)  =>  float
+    4. s/f + Math.sin(f)  =>  double
     5. c == '비'  =>  boolean
     6. l+1.5f  =>  float
     7. 나는<10  =>  boolean
@@ -68,7 +68,7 @@ public class Chapter4 {
     f = i+100;
     나는 = 2*b+l;  =>  error
     b1 = s;  =>  error
-    b2 = s >= 57;  =>  error
+    b2 = s >= 57;
     x = b;  =>  error
     c = 'b';
     */
