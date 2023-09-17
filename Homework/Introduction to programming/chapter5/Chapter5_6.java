@@ -4,7 +4,7 @@ public class Chapter5_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String a = scanner.nextLine();
-        char c = a.charAt(0);
+        char c = a.charAt(a.length()-1);
         if (a.substring(0, 5).equals("vocal")) {
             System.out.print("MAYBE ");
         }
