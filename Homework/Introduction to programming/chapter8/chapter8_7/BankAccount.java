@@ -4,10 +4,18 @@ public class BankAccount {
   private String name, surname;
   private double balance;
 
+  public double getBalance() {
+    return balance;
+  }
+
   public BankAccount(String n, String s) {
     name = n;
     surname = s;
     balance = 0;
+  }
+
+  public void rateBalance(double d) {
+    balance += (balance * d);
   }
 
   public void deposit(double val) {

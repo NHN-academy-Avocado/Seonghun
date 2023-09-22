@@ -12,7 +12,7 @@ public class chapter8_2 {
             total += Integer.parseInt(line);
             count += 1;
         }
-        return (double) (total / (count - 1));
+        return ((double)total / (count - 1));
     }
 
     public static void main(String[] args) throws IOException {
