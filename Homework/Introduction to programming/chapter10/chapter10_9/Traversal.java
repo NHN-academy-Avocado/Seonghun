@@ -89,7 +89,7 @@ public class Traversal {
             if (searchTraversal(m, r+di[i], c+dj[i], path)) {
               return true;
             }
-            path[r+di[i]][c+dj[i]] = 0;
+            path[r+di[i]][c+dj[i]] = 2;
           }
         }
         path[r][c] = 0;
