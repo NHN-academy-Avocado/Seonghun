@@ -92,7 +92,7 @@ public class Traversal {
             path[r+di[i]][c+dj[i]] = 2;
           }
         }
-        path[r][c] = 0;
+        path[r][c] = 2;
         return false;
         }
       }
