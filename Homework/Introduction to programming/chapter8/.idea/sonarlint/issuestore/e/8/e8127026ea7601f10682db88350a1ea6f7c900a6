@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»¨ë»øÿÿÿÿ
+b
+java:S2095("LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€
+b
+java:S20955"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€
+d
+java:S20954"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(¦£·¥ÿÿÿÿÿ
+c
+java:S20951"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(—ãÏ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+U	java:S899A";Do something with the "boolean" value returned by "delete".(¹Î“üÿÿÿÿ
+i
+java:S4042A"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¹Î“üÿÿÿÿ
