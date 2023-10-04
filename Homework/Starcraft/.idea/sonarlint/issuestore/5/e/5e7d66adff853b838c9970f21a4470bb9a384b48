@@ -1,0 +1,32 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ8›î³¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ8‚›î³¯1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æõ‰Ò8‚›î³¯1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ãİªœ8‚›î³¯1
+i	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’î—J8‚›î³¯1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(¡Ş±ıÿÿÿÿ8„›î³¯1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(©°òùûÿÿÿÿ8„›î³¯1
+o
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Á¶¶º8…›î³¯1
+[
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(î°¦8‡›î³¯1
+@
+java:S2119b"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ˆ›î³¯1
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(÷’–8‰›î³¯1
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(ŞÚ³şÿÿÿÿ8‹›î³¯1
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(´¼Î¶ÿÿÿÿÿ8‹›î³¯1
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Œ›î³¯1
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(åÕ¬ãùÿÿÿÿ8›î³¯1
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ô§³ş8›î³¯1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÿºş8›î³¯1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¨¯Òğıÿÿÿÿ8›î³¯1
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8›î³¯1
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(Šî™Åÿÿÿÿÿ8›î³¯1
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(ô§³ş8›î³¯1
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(ªŞëüÿÿÿÿ8›î³¯1
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(Úì‹‰ÿÿÿÿÿ8›î³¯1
+A
+java:S2119Ÿ"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8›î³¯1
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(Ş°Öäøÿÿÿÿ8›î³¯1
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(àŞÆ±8›î³¯1
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8‘›î³¯1

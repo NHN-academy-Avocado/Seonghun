@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.Random;
 
 public class User {
-    private String tribe;
-    private List<Unit> units = new ArrayList<>();
+    private final String tribe;
+    private final List<Unit> units = new ArrayList<>();
     private int countUnit;
 
     public User(String tribe) {

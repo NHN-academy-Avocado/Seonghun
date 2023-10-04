@@ -2,7 +2,7 @@ package com.nhnacademy.app.domain.unit;
 
 
 public class Unit {
-    private int power;
+    private final int power;
     private int shield;
 
     public Unit(int power, int shield) {
@@ -23,12 +23,9 @@ public class Unit {
     }
 
     public void die() {
-        System.out.println(this.getClass() + "파괴!!");
+        System.out.println(this.getClass().getSimpleName() + "파괴!!");
     }
 
-    public int getPower() {
-        return this.power;
-    }
 
     public int getShield() {
         return this.shield;
