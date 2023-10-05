@@ -41,8 +41,6 @@ Z
 *src/main/java/com/nhnacademy/app/Main.java,5/e/5e7d66adff853b838c9970f21a4470bb9a384b48
 i
 9src/main/java/com/nhnacademy/app/domain/weapon/Laser.java,4/f/4fb7806fe69e6589a893f72934a0a3190bf1b529
-a
-1src/main/java/com/nhnacademy/app/domain/User.java,5/1/51f775ba1ee531dd073d25dfb17d1a341d5a033e
 p
 @src/main/java/com/nhnacademy/app/domain/unit/protos/Carrier.java,7/0/70f056b7e75151b89d950db0483cdf5ed0890f3e
 p
