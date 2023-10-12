@@ -61,3 +61,5 @@ o
 ?src/main/java/com/nhnacademy/app/domain/unit/zerg/Mutalisk.java,f/b/fb3cb3e0587dbfa84fb8c570e2b416bc65cab7c3
 l
 <src/main/java/com/nhnacademy/app/domain/unit/zerg/Queen.java,8/7/87f4147770637369ea39a4c0a8944cb2b2450358
+a
+1src/main/java/com/nhnacademy/app/domain/User.java,5/1/51f775ba1ee531dd073d25dfb17d1a341d5a033e
