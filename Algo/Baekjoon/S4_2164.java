@@ -9,7 +9,7 @@ public class S4_2164 {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(bf.readLine());
         bf.close();
-        Queue<Integer> que = new LinkedList();
+        Queue<Integer> que = new LinkedList<>();
         for (int i = 1; i <= n; i++) {
             que.add(i);
         }
