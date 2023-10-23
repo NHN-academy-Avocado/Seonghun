@@ -6,9 +6,7 @@ import java.util.HashMap;
 public class S4_10816 {
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(bf.readLine());
         String[] input = bf.readLine().split(" ");
-        int m = Integer.parseInt(bf.readLine());
         String[] temp = bf.readLine().split(" ");
         bf.close();
 
