@@ -1,4 +1,3 @@
-package Silver;
 import java.io.*;
 
 public class S1_1991 {
