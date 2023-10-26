@@ -33,7 +33,6 @@ public class S2_18111 {
         for (int i = heights[0]; i < heights[len-1]+1; i++) {
             long block = b;
             int time = 0;
-            boolean flag = true;
             for (int j = 0; j < len; j++) {
                 if (i <= heights[j]) {
                     int count = (heights[j] - i) * map.get(heights[j]);
