@@ -22,5 +22,4 @@ public class S4_17219 {
         bf.close();
         System.out.println(answer);
     }
-    
 }
