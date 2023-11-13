@@ -1,9 +1,0 @@
-
-7
-java:S1220""Move this file to a named package.8—ÓÐ²¼1
-D
-java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8Óî¾³¼1
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ê®¿³¼1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(µþ—Èüÿÿÿÿ8ÛÇÑ²¼1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8Ë®¿³¼1
