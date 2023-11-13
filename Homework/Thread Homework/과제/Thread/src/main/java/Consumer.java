@@ -13,12 +13,15 @@ public class Consumer implements Runnable {
     @Override
     public void run() {
         try {
-            int time = ThreadLocalRandom.current().nextInt(1, 11) * 1000;
-            this.store.enter();
-            Thread.sleep(time);
-            this.store.sell();
-            Thread.sleep(time);
-            this.store.exit();
+            while (true) {
+                int time = ThreadLocalRandom.current().nextInt(1, 11) * 1000;
+                this.store.enter();
+                Thread.sleep(time);
+                this.store.sell();
+                Thread.sleep(time);
+                this.store.exit();
+                Thread.sleep(time);
+            }
         } catch (InterruptedException e) {
             System.out.println(e.getMessage());
         }
