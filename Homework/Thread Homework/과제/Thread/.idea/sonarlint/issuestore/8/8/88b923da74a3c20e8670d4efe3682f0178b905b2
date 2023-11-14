@@ -1,0 +1,19 @@
+
+7
+java:S1220""Move this file to a named package.8ÅÓìº¼1
+u	java:S116"TRename this field "MAX_STACK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ãÀ¯ùÿÿÿÿ8ÍÓìº¼1
+s	java:S116
+"WRename this field "MAX_CONSUMER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ð°³º8ÍÓìº¼1
+C
+java:S1170"!Make this final field static too.( ãÀ¯ùÿÿÿÿ8ÍÓìº¼1
+>
+java:S1170
+"!Make this final field static too.(Ð°³º8ÍÓìº¼1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·™© 8ÐÓìº¼1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ï§®¬úÿÿÿÿ8ÐÓìº¼1
+”
+java:S1130'"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ü¿ÖŸ8ãƒüº¼1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(áÁÌÏùÿÿÿÿ8þ¼üº¼1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ÆÀûý8£Ñƒ»¼1
+O
+java:S1068"-Remove this unused "MAX_STACK" private field.( ãÀ¯ùÿÿÿÿ8æƒüº¼1
